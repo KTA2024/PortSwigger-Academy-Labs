@@ -1,6 +1,6 @@
 # PortSwigger Academy Labs
 
-A comprehensive collection of walkthroughs and solutions for PortSwigger Web Security Academy labs.
+*A comprehensive collection of walkthroughs and solutions for PortSwigger Web Security Academy labs.*
 
 ## 📚 Labs Coverage
 
@@ -10,7 +10,7 @@ A comprehensive collection of walkthroughs and solutions for PortSwigger Web Sec
 - [**Path Traversal**](./Path-Traversal/README.md) - 6 labs
 - [**XXE Injection**](./XXE-Injection/README.md) - 4 labs
 
-- ## 🎯 About This Repository
+## 🎯 About This Repository
 
 This repository contains detailed walkthroughs of various web security vulnerabilities covered in PortSwigger Academy. Each section includes:
 
